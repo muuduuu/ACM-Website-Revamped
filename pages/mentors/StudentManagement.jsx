@@ -57,7 +57,7 @@ const Students = () => {
     },
     {
       src: "/vasihnav2.png",
-      name: "Vasihnav",
+      name: "Vaishnav",
       position: "App Dev head",
       instagram: "https://www.instagram.com/v_p.nair_?igsh=MWwxNnkxY29rNXc0ZQ==",
       linkedin: "https://www.linkedin.com/in/vaishnav-p-nair-057435289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
