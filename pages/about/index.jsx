@@ -39,19 +39,6 @@ export const aboutData = [
     ],
   },
   {
-    title: "SIG CP",
-    info: [
-      {
-        title: "ICPC Asia-West Regional Finalists",
-        stage: "Mayank Pugalia & Ashwin",
-      },
-      {
-        title: "2 Teams Awarded at Smart India Hackathon",
-        stage: "2021-22",
-      },
-    ],
-  },
-  {
     title: "SIG Cyber",
     info: [
       {
@@ -78,7 +65,7 @@ export const aboutData = [
     ],
   },
   {
-    title: "Web@ACM",
+    title: "Web and App Dev",
     info: [
       {
         title: "Multiple Internships",
@@ -87,6 +74,14 @@ export const aboutData = [
       {
         title: "Amrita Amritapuri College Navigation App",
         stage: "NaviG",
+      },
+      {
+        title: "ICPC Asia-West Regional Finalists",
+        stage: "Mayank Pugalia & Ashwin",
+      },
+      {
+        title: "2 Teams Awarded at Smart India Hackathon",
+        stage: "2021-22",
       },
     ],
   }

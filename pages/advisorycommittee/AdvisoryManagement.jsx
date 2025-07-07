@@ -8,59 +8,49 @@ import { fadeIn } from "../../variants";
 const Advisory = () => {
   const AdvisoryCards = [
     {
-      src: "/adithya.png",
-      name: "ADITHYA S NAIR",
-      linkedin: "https://www.linkedin.com/in/adithya-s-nair/",
-      github: "https://github.com/ADITHYASNAIR2021"
+      src: "/akhil.jpg",
+      name: "Akhil Menon M",
+      linkedin: "https://www.linkedin.com/in/akhil-menon-513503244/",
+      github: "https://github.com/muuduuu"
     },
     {
-      src: "/akarsh2.png",
-      name: "AKARSH S NAIR",
-      linkedin: "https://in.linkedin.com/in/akarsh-s-nair-426530227",
-      github: "https://github.com/akarshsnair"
+      src: "/hari blow.jpg",
+      name: "Hari G Narayan",
+      linkedin: "http://www.linkedin.com/in/hari-narayan-629867248",
+      github: "https://github.com/Hari-with-an-i"
     },
     {
-      src: "/Aadithyanraju.jpeg",
-      name: "Aadithyan Raju",
-      linkedin: "https://www.linkedin.com/in/aadithyan-raju/",
-      github: "https://github.com/AadithyanRaju"
+      src: "/gps 2.jpg",
+      name: "Gowri P Shenoy",
+      linkedin: "https://www.linkedin.com/in/gowri-shenoy-676100284",
+      github: "https://github.com/Locateme-GPS"
     },
     {
-      src: "/dhruvrk.jpg",
-      name: "Dhruv R Krishnan",
-      linkedin: "https://www.linkedin.com/in/dhruv-krishnan-65772923a/",
-      github: "https://github.com/DRK-20"
+      src: "/ajan.jpg",
+      name: "Ajan S",
+      linkedin: "https://www.linkedin.com/in/ajan-s",
+      github: "https://github.com/ajan421"
     },
     {
-      src: "/maanav.png",
-      name: "Maanav Thalapilly",
-      linkedin: "https://www.linkedin.com/in/maanav-thalapilly-4718ab24a/",
-      github: "https://github.com/MaanavT"
+      src: "/lokesh.jpg",
+      name: "Lokesh Yarramallu",
+      linkedin: "https://www.linkedin.com/in/lokeshyarramallu/",
+      github: "https://github.com/LokeshYarramallu"
     },
     {
-      src: "/kisore.jpg",
-      name: "Kisor G",
-      linkedin: "www.linkedin.com/in/kisor-g",
-      github: " "
+      src: "/surya.jpeg",
+      name: "Surya Kiran",
+      linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
+      github: "https://github.com/Suryakiran071"
     },
     {
-      src: "/athul.png",
-      name: "Athul Gireesh",
-      linkedin: "https://www.linkedin.com/in/athul-gireesh-02b4a8227/",
-      github: "https://github.com/Athulg19"
+      src: "/Navneeth.jpeg",
+      name: "Navneeth N",
+      linkedin: "https://www.linkedin.com/in/navaneeth-n-817658271/",
+      github: "https://github.com/navth"
     },
-    {
-      src: "/gautham.png",
-      name: "Gautham Krishna",
-      linkedin: "https://www.linkedin.com/in/gauthu/",
-      github: "https://github.com/gauthu3013"
-    },
-    {
-      src: "/ashwinsabu.png",
-      name: "Ashwin Sabu",
-      linkedin: "https://www.linkedin.com/in/ashwin-sabu-31a0a0b4/",
-      github: "https://github.com/CROSSTAR001"
-    }
+  
+
   ];
 
   const renderCards = () => {

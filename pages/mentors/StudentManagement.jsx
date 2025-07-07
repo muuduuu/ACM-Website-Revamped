@@ -8,92 +8,92 @@ import { fadeIn } from "../../variants";
 const Students = () => {
   const studentCards = [
     {
-      src: "/akhil.jpg",
-      name: "Akhil Menon M",
-      position: "Chair and Web,Cyber Lead",
-      instagram: "https://instagram.com/_akhilmenon",
-      linkedin: "https://www.linkedin.com/in/akhil-menon-513503244/",
-      github: "https://github.com/muuduuu"
+      src: "/vasu.png",
+      name: "Vasu",
+      position: "Chair , Cyber Lead",
+      instagram: "https://www.instagram.com/va_zzu_b.riz?igsh=MWJnZnNya2FjbDhzcQ==",
+      linkedin: "https://www.linkedin.com/in/vasudevb25/",
+      github: "https://github.com/vasudevb25"
     },
     {
-      src: "/hari blow.jpg",
-      name: "Hari G Narayan",
-      position: "V.C and Glitch Lead",
+      src: "/johan.png",
+      name: "Johan Rajesh",
+      position: "V.C , App and Web Lead",
       instagram: "https://www.instagram.com/harinarayan721?igsh=ZjE4OHRoYTJrbWN4",
       linkedin: "http://www.linkedin.com/in/hari-narayan-629867248",
       github: "https://github.com/Hari-with-an-i"
     },
     {
-      src: "/gps 2.jpg",
-      name: "Gowri P Shenoy",
-      position: "Secretary",
-      instagram: "https://www.instagram.com/locateme._gps?igsh=NHEyMmg2dmFicjA3",
-      linkedin: "https://www.linkedin.com/in/gowri-shenoy-676100284",
-      github: "https://github.com/Locateme-GPS"
-    },
-    {
-      src: "/ajan.jpg",
-      name: "Ajan S",
-      position: "Treasurer",
-      instagram: "https://www.instagram.com/ajannnnnnnnnnnnnnnnnn?igsh=N2s4dW85aXBrYmNu",
-      linkedin: "https://www.linkedin.com/in/ajan-s",
-      github: "https://github.com/ajan421"
-    },
-    {
-      src: "/lokesh.jpg",
-      name: "Lokesh Yarramallu",
-      position: "AI Lead",
-      instagram: "https://www.instagram.com/lokesh_yarramallu?igsh=Ym96YWM4Njg5eWVx",
-      linkedin: "https://www.linkedin.com/in/lokeshyarramallu/",
-      github: "https://github.com/LokeshYarramallu"
-    },
-    {
-      src: "/surya.jpeg",
-      name: "Surya Kiran",
-      position: "Design lead",
-      instagram: "https://www.instagram.com/s.u.r_y.a?igsh=OTFvMnA3ZmQ1Zmtt",
-      linkedin: "https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav",
-      github: "https://github.com/Suryakiran071"
-    },
-    {
-      src: "/Navneeth.jpeg",
-      name: "Navneeth N",
-      position: "Creative head",
-      instagram: "https://www.instagram.com/_navth/",
-      linkedin: "https://www.linkedin.com/in/navaneeth-n-817658271/",
-      github: "https://github.com/navth"
-    },
-    {
-      src: "/aleena.jpg",
-      name: "Aleena Sebastian",
-      position: "Web Co-Lead",
-      instagram: "https://www.instagram.com/_navth/",
-      linkedin: "https://www.linkedin.com/in/navaneeth-n-817658271/",
-      github: "https://github.com/navth"
-    },
-    {
-      src: "/abhinav.jpg",
-      name: "Abhinav Manoj",
-      position: "AI Co-Lead",
+      src: "/abhinav2.png",
+      name: "Abinav Manoj",
+      position: "Vice chair",
       instagram: "https://www.instagram.com/abhinav_m_rudra?igsh=MTQ1Z2I5YnRibXdq&utm_source=qr",
       linkedin: "https://www.linkedin.com/in/abhinav-manoj-8ab8b1221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
       github: "https://github.com/AbhinavRudra"
     },
     {
-      src: "/vasu.jpg",
-      name: "Vasudev B",
-      position: "Cyber Co-Lead",
-      instagram: "https://www.instagram.com/va_zzu_b.riz/",
-      linkedin: "https://www.linkedin.com/vasudevb25",
-      github: "https://github.com/vasudevb25"
+      src: "/ananthan.png",
+      name: "Ananthakrishnan S",
+      position: "Web Master , Treasurer",
+      instagram: "https://www.instagram.com/ananth_akrishnan_/",
+      linkedin: "https://www.linkedin.com/in/ananthakrishnan-s-997819313?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      github: "https://github.com/ArjunAk1234"
     },
     {
-      src: "/karthik.jpg",
-      name: "Karthik Kishor",
-      position: "CP Co-Lead",
-      instagram: "https://www.instagram.com/karthikkishor_kk",
-      linkedin: "https://www.linkedin.com/in/karthikkishorkk",
-      github: "https://github.com/thekungfukid"
+      src: "/keerthana.png",
+      name: "Keerthana",
+      position: "secretary",
+      instagram: "https://www.instagram.com/__keerthana.gz?igsh=MTV6ZTQxZGszMmdjMg==",
+      linkedin: "https://www.linkedin.com/in/keerthana-sai-gazula-4013b927a/",
+      github: "https://github.com/KeerthanaG2"
+    },
+    {
+      src: "/advyth.png",
+      name: "Advyth",
+      position: "AI lead",
+      instagram: "https://www.instagram.com/advythvaman_05?igsh=MW80ZmdseTdsc2F4MQ==",
+      linkedin: "https://www.linkedin.com/in/advyth-vaman-akalankam/",
+      github: "https://github.com/AdvythVaman05"
+    },
+    {
+      src: "/vasihnav2.png",
+      name: "Vasihnav",
+      position: "App Dev head",
+      instagram: "https://www.instagram.com/v_p.nair_?igsh=MWwxNnkxY29rNXc0ZQ==",
+      linkedin: "https://www.linkedin.com/in/vaishnav-p-nair-057435289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      github: "https://github.com/CodeMaestro01"
+    },
+    {
+      src: "/shyam.png",
+      name: "Shyam ",
+      position: "Web Dev Lead",
+      instagram: "https://www.instagram.com/ghanasyaaam?igsh=MTg5MWpnNjJnajRjbg==",
+      linkedin: "https://www.linkedin.com/in/ghanasyam-sunil-4b9339291/",
+      github: "https://github.com/ghanasyaam"
+    },
+    {
+      src: "/abhinavglitch.jpeg",
+      name: "Abhinav",
+      position: "Content Lead",
+      instagram: "https://www.instagram.com/abhinav_g_nair?igsh=MTM1b3Jsbm8yOXBrag==",
+      linkedin: "https://www.linkedin.com/in/abhinav-g-nair-a353892b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      github: "https://github.com/Absguy"
+    },
+    {
+      src: "/harshita.png",
+      name: "Harshita",
+      position: "Design Lead",
+      instagram: "https://www.instagram.com/va_zzu_b.riz/",
+      linkedin: "https://www.linkedin.com/in/harshitha-dandamudi-b9b326289?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+      github: "https://github.com/harshi1ha"
+    },
+    {
+      src: "/aditi.png",
+      name: "Aditi",
+      position: "Media Lead",
+      instagram: "https://www.instagram.com/a_diti_s/",
+      linkedin: "https://www.linkedin.com/in/aditi-sunilkumar/",
+      github: "https://github.com/a1diti1s"
     }
   ];
 
