@@ -79,6 +79,31 @@ const Students = () => {
       linkedin: "https://www.linkedin.com/in/abhinav-g-nair-a353892b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       github: "https://github.com/Absguy"
     },
+ 
+    {
+      src: "/anashwara.jpeg",
+      name: "Anaswara A",
+      position: "Cyber co-Lead",
+      instagram: "https://www.instagram.com/anaswara_ani1?igsh=MXU5NWRranN1bXc5MQ==",
+      linkedin: "https://www.linkedin.com/in/anaswara-anil-2403b3282/",
+      github: " https://github.com/Atrnl"
+    },
+    {
+      src: "/govardhan.jpeg",
+      name: "Govardhan Satya",
+      position: "AI co-Lead",
+      instagram: "https://www.instagram.com/tycoongovardhan?igsh=cHlnbjg3MzUxeWoz",
+      linkedin: "https://www.linkedin.com/in/govardhan-satya-gadi-95803b216p",
+      github: "https://github.com/govardhansatya"
+    },
+    {
+      src: "/anirudh.png",
+      name: "Anirudh Suresh",
+      position: "Web Dev co-Lead",
+      instagram: "https://www.instagram.com/anirudhsuresh05?igsh=d3p3MDM0cjJwaDhp",
+      linkedin: "https://www.linkedin.com/in/anirudh-suresh-5015b7328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      github: "https://github.com/Anirudh05bit"
+    },
     {
       src: "/harshita.png",
       name: "Harshita",
@@ -94,7 +119,32 @@ const Students = () => {
       instagram: "https://www.instagram.com/a_diti_s/",
       linkedin: "https://www.linkedin.com/in/aditi-sunilkumar/",
       github: "https://github.com/a1diti1s"
-    }
+    },
+    
+    {
+      src: "/karthikrs.jpeg",
+      name: "Karthik R S",
+      position: "Core",
+      instagram: "https://www.instagram.com/_k.arthiii/profilecard/?igsh=MWRrd2R4eHBpemdibg==",
+      linkedin: "https://www.linkedin.com/in/karthik-r-s/",
+      github: "https://github.com/karthikrs05"
+    },
+    {
+      src: "/karthik.jpg",
+      name: "Karthik Kishor",
+      position: "Core",
+      instagram: "https://www.instagram.com/karthikkishor_kk",
+      linkedin: "https://www.linkedin.com/in/karthikkishorkk/",
+      github: "https://github.com/karthikkishorkk"
+    },
+    {
+      src: "/siddu.jpeg",
+      name: "Sahith Siddarth",
+      position: "Core",
+      instagram: "https://www.instagram.com/_siddu_2304?igsh=MTVsdHE4OHpqb3VoZQ==",
+      linkedin: "https://www.linkedin.com/in/earlapally-sahith-siddarth",
+      github: "https://github.com/siddarth2304"
+    },
   ];
 
   const renderCards = () => {
