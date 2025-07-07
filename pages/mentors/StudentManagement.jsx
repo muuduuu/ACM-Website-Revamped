@@ -48,7 +48,7 @@ const Students = () => {
       github: "https://github.com/KeerthanaG2"
     },
     {
-      src: "/advyth.png",
+      src: "/advyth1.png",
       name: "Advyth",
       position: "AI lead",
       instagram: "https://www.instagram.com/advythvaman_05?igsh=MW80ZmdseTdsc2F4MQ==",

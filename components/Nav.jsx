@@ -31,7 +31,7 @@ export const navData = [
   {name: "Core Committee",path:"/mentors",Icon: FaPeopleRoof},
   {name: "Faculty",path:"/faculty",Icon: HiUsers},
   {name: "Alumni Advisory", path: "/advisorycommittee", Icon: FaUserGraduate},
-  {name: "Projects", path: "/projects", Icon: IoLayers },
+  // {name: "Projects", path: "/projects", Icon: IoLayers },
   {name: "Testimonials",path: "/testimonials",Icon: HiChatBubbleBottomCenterText},
   {name: "Contact",path: "/contact",Icon: HiEnvelope},
 ];
