@@ -47,6 +47,7 @@ const Home = () => {
             animate="show"
             exit="hidden"
             className="hidden xl:flex"
+            onClick={() => window.location.href = 'https://aseam.acm.org/join'}
           >
             <ProjectsBtn />
           </motion.div>
