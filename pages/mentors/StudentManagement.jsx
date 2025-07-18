@@ -83,7 +83,7 @@ const Students = () => {
     {
       src: "/anashwara.jpeg",
       name: "Anaswara A",
-      position: "Cyber co-Lead",
+      position: "Cyber Co-Lead",
       instagram: "https://www.instagram.com/anaswara_ani1?igsh=MXU5NWRranN1bXc5MQ==",
       linkedin: "https://www.linkedin.com/in/anaswara-anil-2403b3282/",
       github: " https://github.com/Atrnl"
@@ -91,7 +91,7 @@ const Students = () => {
     {
       src: "/govardhan.jpeg",
       name: "Govardhan Satya",
-      position: "AI co-Lead",
+      position: "AI Co-Lead",
       instagram: "https://www.instagram.com/tycoongovardhan?igsh=cHlnbjg3MzUxeWoz",
       linkedin: "https://www.linkedin.com/in/govardhan-satya-gadi-95803b216p",
       github: "https://github.com/govardhansatya"
@@ -99,7 +99,7 @@ const Students = () => {
     {
       src: "/anirudh.png",
       name: "Anirudh Suresh",
-      position: "Web Dev co-Lead",
+      position: "Web Dev Co-Lead",
       instagram: "https://www.instagram.com/anirudhsuresh05?igsh=d3p3MDM0cjJwaDhp",
       linkedin: "https://www.linkedin.com/in/anirudh-suresh-5015b7328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       github: "https://github.com/Anirudh05bit"
