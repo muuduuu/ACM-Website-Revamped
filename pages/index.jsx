@@ -1,9 +1,7 @@
 import { motion } from "framer-motion";
-
 import ParticlesContainer from "../components/ParticlesContainer";
 import ProjectsBtn from "../components/ProjectsBtn";
 import Avatar from "../components/Avatar";
-
 import { fadeIn } from "../variants";
 
 const Home = () => {
@@ -23,7 +21,6 @@ const Home = () => {
             Fueling <span className="text-accent">Curiosity</span><br /> Igniting{" "}
             <span className="text-accent">Ideas.</span>
           </motion.h1>
-
           {/* subtitle */}
           <motion.p
             variants={fadeIn("down", 0.3)}
@@ -36,9 +33,8 @@ const Home = () => {
             pushed to the limits. Here, every idea has the potential to bring about change.
             Together, we are not just adapting to the future; we are actively shaping it, as a <span className="text-accent font-bold text-lg">FAMILY</span>.
           </motion.p>
-
           {/* btn */}
-          <div className="flex justify-center xl:hidden relative">
+          <div className="flex justify-center xl:hidden relative z-50">
             <ProjectsBtn />
           </div>
           <motion.div
@@ -46,8 +42,11 @@ const Home = () => {
             initial="hidden"
             animate="show"
             exit="hidden"
+
+            className="hidden xl:flex relative z-50"
             className="hidden xl:flex"
             onClick={() => window.location.href = 'https://aseam.acm.org/join'}
+
           >
             <ProjectsBtn />
           </motion.div>
@@ -61,10 +60,8 @@ const Home = () => {
           className="bg-none xl:bg-explosion xl:bg-cover xl:bg-right xl:bg-no-repeat w-full h-full absolute mix-blend-color-dodge translate-z-0"
           aria-hidden
         />
-
         {/* particles */}
         <ParticlesContainer />
-
         {/* avatar */}
         <motion.div
           variants={fadeIn("up", 0.5)}
