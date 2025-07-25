@@ -138,12 +138,12 @@ const Students = () => {
       github: "https://github.com/karthikkishorkk"
     },
     {
-      src: "/siddu.jpeg",
-      name: "Sahith Siddarth",
+      src: "/vign.jpeg",
+      name: "Vighnesh B",
       position: "Core",
-      instagram: "https://www.instagram.com/_siddu_2304?igsh=MTVsdHE4OHpqb3VoZQ==",
-      linkedin: "https://www.linkedin.com/in/earlapally-sahith-siddarth",
-      github: "https://github.com/siddarth2304"
+      instagram: "https://www.instagram.com/vighneshhb?igsh=MTZpbWl3YWh3bmNyZw==",
+      linkedin: "https://www.linkedin.com/in/vighnesh-b-b9391b291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      github: "https://github.com/vighneshb04"
     },
   ];
 

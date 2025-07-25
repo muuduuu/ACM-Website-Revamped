@@ -24,6 +24,7 @@ const ProjectsBtn = () => {
           width={141}
           height={148}
           className="animate-spin-slow w-full h-full max-w-[141px] max-h-[148px] pointer-events-none select-none"
+          style={{ animation: 'spin 12s linear infinite' }}
           draggable={false}
         />
         <HiArrowRight
